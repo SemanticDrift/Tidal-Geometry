@@ -68,7 +68,7 @@ N = 94,000 x 1,140 = 107,160,000 lunations
 | Jovian Planetary System (Annex JUP) | https://doi.org/10.5281/zenodo.19719503 |
 | The Harmonic Universe | https://doi.org/10.5281/zenodo.18314933 |
 
-Full framework available at SemanticDrift and SemanticShift
+Full framework available at SemanticDrift.net and SemanticShift.net
 
 ---
 
