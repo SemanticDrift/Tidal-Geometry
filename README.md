@@ -41,10 +41,6 @@ The spatial frequency remainder 1/9 interacts with the lunar daily fraction 77/1
 and the lattice scalar to produce the nodal distribution. Adding the Metonic correction
 yields the total daily wave peaks:
 
-The spatial frequency remainder 1/9 interacts with the lunar daily fraction 77/120
-and the lattice scalar to produce the nodal distribution. Adding the Metonic correction
-yields the total daily wave peaks:
-
 1778/855 ≈ 2.0795
 Integer part: 2 mandated tidal peaks
 Fractional remainder: ≈ 57-minute daily lag
