@@ -60,7 +60,6 @@ $$107,160,000 \text{ lunations} \times \left(\frac{19 \text{ years}}{235 \text{ 
 | **Deriving Euler's Number from Lunar Cycles** | [10.5281/zenodo.18363931](https://doi.org/10.5281/zenodo.18363931) |
 | **The Law of Admissibility** | [10.5281/zenodo.18223592](https://doi.org/10.5281/zenodo.18223592) |
 | **Calculating Planetary Distance** | [10.5281/zenodo.19720428](https://doi.org/10.5281/zenodo.19720428) |
-| **Jovian Planetary System (Annex JUP)** | [10.5281/zenodo.19719503](https://doi.org/10.5281/zenodo.19719503) |
 
 Full framework available at [SemanticDrift.net](https://semanticdrift.net) and [SemanticShift.net](https://semanticshift.net).
 
