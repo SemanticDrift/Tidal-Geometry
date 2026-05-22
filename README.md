@@ -22,7 +22,7 @@ The same rational framework yields a discrete phase closure period. Solving the 
 
 ## The Model
 
-The tidal structure emerges from three rational coordinates:
+The tidal structure emerges from three rational coordinates Earth-Moon framework:
 
 - h = 181/3 — Harmonic distance coordinate
 - e = 7/19 — Metonic residual
@@ -68,7 +68,7 @@ N = 94,000 x 1,140 = 107,160,000 lunations
 | Jovian Planetary System (Annex JUP) | https://doi.org/10.5281/zenodo.19719503 |
 | The Harmonic Universe | https://doi.org/10.5281/zenodo.18314933 |
 
-Full framework available at SemanticDrift.net and SemanticShift.net
+Full framework available at [SemanticDrift.net](https://semanticdrift.net) and [SemanticShift.net](https://semanticshift.net)
 
 ---
 
