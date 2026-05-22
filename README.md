@@ -62,7 +62,7 @@ $$107,160,000 \text{ lunations} \times \left(\frac{19 \text{ years}}{235 \text{ 
 | **Calculating Planetary Distance** | SemanticShift.net |
 | **Jovian Planetary System (Annex JUP)** | SemanticShift.net |
 
-Full framework available at [semanticdrift.net](https://semanticdrift.net) and [semanticshift.net](https://semanticshift.net).
+Full framework available at [SemanticDrift.net](https://semanticdrift.net) and [SemanticShift.net](https://semanticshift.net).
 
 ---
 
